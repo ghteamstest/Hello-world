@@ -1,4 +1,4 @@
-# Hello World
+# Hello World - Staging
 
 A classic "Hello World" project to demonstrate basic programming concepts and project structure.
 
