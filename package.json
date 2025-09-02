@@ -1,0 +1,13 @@
+{
+  "name": "hello-world-login",
+  "version": "1.0.0",
+  "description": "A simple Hello World application with login functionality and proper error handling",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "NODE_ENV=test node test.js"
+  },
+  "keywords": ["hello-world", "login", "error-handling"],
+  "author": "",
+  "license": "MIT"
+}
