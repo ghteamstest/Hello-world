@@ -1,11 +1,11 @@
 #!/usr/bin/env python3
 """
-A simple Hello World program
+A simple Helloworld program
 """
 
 def main():
-    """Print Hello, World! message"""
-    print("Hello, World!")
+    """Print Helloworld! message"""
+    print("Helloworld!")
 
 if __name__ == "__main__":
     main()

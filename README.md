@@ -1,10 +1,10 @@
-# Hello World
+# Helloworld
 
-A simple Hello World program written in Python.
+A simple Helloworld program written in Python.
 
 ## Running the Program
 
-To run the Hello World program, use Python 3:
+To run the Helloworld program, use Python 3:
 
 ```bash
 python3 hello.py
@@ -20,5 +20,5 @@ chmod +x hello.py
 ## Expected Output
 
 ```
-Hello, World!
+Helloworld!
 ```
