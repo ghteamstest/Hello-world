@@ -1,2 +1,24 @@
-# Hello-world
-Need to create the hello world 
+# Hello World
+
+A simple Hello World program written in Python.
+
+## Running the Program
+
+To run the Hello World program, use Python 3:
+
+```bash
+python3 hello.py
+```
+
+Or make it executable and run directly:
+
+```bash
+chmod +x hello.py
+./hello.py
+```
+
+## Expected Output
+
+```
+Hello, World!
+```
