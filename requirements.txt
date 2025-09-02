@@ -1,0 +1,14 @@
+# Hello World User Model Dependencies
+# 
+# This project uses only Python standard library modules,
+# so no external dependencies are required.
+#
+# For development and testing:
+# - unittest (built-in)
+# - datetime (built-in)
+# - typing (built-in since Python 3.5)
+
+# If you want to add additional development tools, uncomment below:
+# pytest>=7.0.0
+# flake8>=5.0.0
+# black>=22.0.0
